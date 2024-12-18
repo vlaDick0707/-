@@ -1,0 +1,15 @@
+C:\лабы\барышев\phonestation\obj\Debug\net6.0\phonestation.GeneratedMSBuildEditorConfig.editorconfig
+C:\лабы\барышев\phonestation\obj\Debug\net6.0\phonestation.AssemblyInfoInputs.cache
+C:\лабы\барышев\phonestation\obj\Debug\net6.0\phonestation.AssemblyInfo.cs
+C:\лабы\барышев\phonestation\obj\Debug\net6.0\phonestation.csproj.CoreCompileInputs.cache
+C:\лабы\барышев\phonestation\obj\Debug\net6.0\phonestation.sourcelink.json
+C:\лабы\барышев\phonestation\bin\Debug\net6.0\phonestation.exe
+C:\лабы\барышев\phonestation\bin\Debug\net6.0\phonestation.deps.json
+C:\лабы\барышев\phonestation\bin\Debug\net6.0\phonestation.runtimeconfig.json
+C:\лабы\барышев\phonestation\bin\Debug\net6.0\phonestation.dll
+C:\лабы\барышев\phonestation\bin\Debug\net6.0\phonestation.pdb
+C:\лабы\барышев\phonestation\obj\Debug\net6.0\phonestation.dll
+C:\лабы\барышев\phonestation\obj\Debug\net6.0\refint\phonestation.dll
+C:\лабы\барышев\phonestation\obj\Debug\net6.0\phonestation.pdb
+C:\лабы\барышев\phonestation\obj\Debug\net6.0\phonestation.genruntimeconfig.cache
+C:\лабы\барышев\phonestation\obj\Debug\net6.0\ref\phonestation.dll

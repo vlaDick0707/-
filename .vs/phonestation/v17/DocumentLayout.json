@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u043B\u0430\u0431\u044B\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\phonestation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E248CBF0-9B5D-4491-B416-A0CE21C70DEB}|phonestation.csproj|c:\\\u043B\u0430\u0431\u044B\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\phonestation\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E248CBF0-9B5D-4491-B416-A0CE21C70DEB}|phonestation.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E248CBF0-9B5D-4491-B416-A0CE21C70DEB}|phonestation.csproj|c:\\\u043B\u0430\u0431\u044B\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\phonestation\\abonent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E248CBF0-9B5D-4491-B416-A0CE21C70DEB}|phonestation.csproj|solutionrelative:abonent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E248CBF0-9B5D-4491-B416-A0CE21C70DEB}|phonestation.csproj|c:\\\u043B\u0430\u0431\u044B\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\phonestation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E248CBF0-9B5D-4491-B416-A0CE21C70DEB}|phonestation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E248CBF0-9B5D-4491-B416-A0CE21C70DEB}|phonestation.csproj|c:\\\u043B\u0430\u0431\u044B\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\phonestation\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E248CBF0-9B5D-4491-B416-A0CE21C70DEB}|phonestation.csproj|solutionrelative:bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E248CBF0-9B5D-4491-B416-A0CE21C70DEB}|phonestation.csproj|c:\\\u043B\u0430\u0431\u044B\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\phonestation\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E248CBF0-9B5D-4491-B416-A0CE21C70DEB}|phonestation.csproj|solutionrelative:service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E248CBF0-9B5D-4491-B416-A0CE21C70DEB}|phonestation.csproj|c:\\\u043B\u0430\u0431\u044B\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\phonestation\\phoneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E248CBF0-9B5D-4491-B416-A0CE21C70DEB}|phonestation.csproj|solutionrelative:phoneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhoneService.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\phonestation\\PhoneService.cs",
+              "RelativeDocumentMoniker": "PhoneService.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\phonestation\\PhoneService.cs",
+              "RelativeToolTip": "PhoneService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:38:32.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Abonent.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\phonestation\\Abonent.cs",
+              "RelativeDocumentMoniker": "Abonent.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\phonestation\\Abonent.cs",
+              "RelativeToolTip": "Abonent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:37:33.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\phonestation\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\phonestation\\Admin.cs",
+              "RelativeToolTip": "Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:36:47.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\phonestation\\Bill.cs",
+              "RelativeDocumentMoniker": "Bill.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\phonestation\\Bill.cs",
+              "RelativeToolTip": "Bill.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:36:16.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\phonestation\\Service.cs",
+              "RelativeDocumentMoniker": "Service.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\phonestation\\Service.cs",
+              "RelativeToolTip": "Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:35:35.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\phonestation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\\phonestation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAIwGcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:34:02.506Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
